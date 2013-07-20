@@ -10,5 +10,4 @@ Run the above command at least once a week
 
 # References
 
-[http://www.debian.org/doc/manuals/debian-faq/ch-uptodate.en.html The Debian GNU/Linux FAQ 
-Chapter 9 - Keeping your Debian system up-to-date]
+[The Debian GNU/Linux FAQ Chapter 9 - Keeping your Debian system up-to-date](http://www.debian.org/doc/manuals/debian-faq/ch-uptodate.en.html)
