@@ -1,4 +1,4 @@
-# Open Source Hackers Cook Book
+# Open Source Hackers Cook Book (OSHCB)
 * [[Single Board Computers]]
 
 # Contributors
