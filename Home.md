@@ -3,6 +3,7 @@
 
 # Contributors
 * Andy Gelme: [@geekscape](http://twitter.com/geekscape), [LinkedIn](http://www.linkedin.com/in/geekscape), [Google+](http://tinyurl.com/geekscape-plus)
+* Alec Clews:
 
 # Templates
 * [[Template: Recipe]]
