@@ -1,1 +1,1 @@
-* [[SBC/SBC: Raspberry Pi]]
+* [[SBC: Raspberry Pi]]
