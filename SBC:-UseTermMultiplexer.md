@@ -7,21 +7,21 @@ Avoid the overhead of running a graphical user interface on small systems and re
 ## Issue Addressed
 
 1. Often connections to a remote embedded device will drop out and any work will be lost
-2. Running X Windows on a Rspberry Pi loads the system and is more complicated to access remotely.
+2. Running X Windows on a small system (if available) loads the system and is more complicated to access remotely.
 
 ## Solution
 
-Install and use termnial multiplex on a Raspberry Pi. There are two choices. GNU Screen and tmux. If you are using an small embedded device (e.g.) and Arduino
+Install and use terminal multiplex on a Raspberry Pi. There are two choices. GNU Screen and tmux. If you are using an small embedded device (e.g.) and Arduino
 then consider installing a Raspberry Pi to support a terminal multiplexer if and as needed.
 
 The following instructions assume you are tmux with the default keymapping on a Raspian GNU/Linux system to which you are connecting
 
 1. Install the tmux package ``sudo apt-get update && sudo apt-get install -y tmux``
-2. Login to the Raspberry Pi from a workking terminal connection (via LAN or serical console)
+2. Login to the Raspberry Pi from a working terminal connection (via LAN or serical console)
 3. Run the command ``tmux``
 4. Type commands as normal
 
-If you loose you connection to the device then simply reconnet and issue the comannd ``tmux attach``. You are returned to your session and carr on where you left off
+If you loose you connection to the device then simply reconnect and issue the command ``tmux attach``. You are returned to your session and car on where you left off
 
 ###Multiple panes
 
